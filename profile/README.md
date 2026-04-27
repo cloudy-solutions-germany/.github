@@ -1,3 +1,4 @@
+![Banner]([./assets/Banner.png](https://github.com/cloudy-solutions-germany/.github/blob/e9df75612acf3de64f8c7a8df2b70f4e9901b4cb/assets/banner.png))
 ## Cloudy-Solutions GmbH
 
 <!--
